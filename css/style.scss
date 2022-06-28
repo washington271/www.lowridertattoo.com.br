@@ -161,7 +161,6 @@ a:focus {
 
 .navbar-brand {
 
-
   span {
     font-size: 24px;
     font-weight: 700;
@@ -196,7 +195,6 @@ a:focus {
     transition: all .3s;
   }
 
-
   &[aria-expanded="true"] {
     .s-1 {
       transform: rotate(45deg);
@@ -225,8 +223,6 @@ a:focus {
   }
 
 }
-
-
 
 /*end header section*/
 
@@ -342,7 +338,6 @@ a:focus {
   .detail-box {
     margin-right: 15%;
 
-
     p {
       margin-top: 25px;
     }
@@ -355,9 +350,6 @@ a:focus {
 }
 
 // end about section
-
-
-
 
 // portfolio section
 
@@ -496,7 +488,6 @@ a:focus {
         background-color: $white;
         padding: 10px 20px;
       }
-
 
     }
   }
